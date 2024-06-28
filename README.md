@@ -2,6 +2,9 @@
 
 Working with a dataset of television and movies, along with their IMDB ratings, we will test the assumption that the highest rated shows also have the most reviews in general. 
 
+## Project Goal
+The aim of this project is to investigate how the number of votes a title receives from IMDb users impacts its ratings. The assumption is that highly-rated shows (we will focus on TV shows, ignoring movies) released during the “Golden Age” of television also have the most votes.
+
 ## Data description:
 
 `name` — first and last name of actor (director)\
